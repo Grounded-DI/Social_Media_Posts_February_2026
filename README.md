@@ -1,13 +1,9 @@
-**#Grounded-DI #DeterministicIntelligence #DeterministicAI #ProtocolA #AuditableAI**
-
-______
-
 # Social_Media_Posts_February_2026
 Grounded DI LLC's social media posts in February 2026.
 
 ______
 
-**Grounded DI LLC - Public Summaries of Provisional Patent Filings Nos. 1-34**
+# Grounded DI LLC - Public Summaries of Provisional Patent Filings Nos. 1-34 
 
 A. DI Motion-Aware Legal Reasoning System (May 24, 2025)
 A deterministic system that analyzes legal motions with stable, traceable logic, designed to reduce ambiguity in civil litigation.
