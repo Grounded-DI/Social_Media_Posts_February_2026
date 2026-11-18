@@ -2,15 +2,9 @@
 
 A dated public archive of Grounded DI LLC posts from February 2026, preserving architecture diagrams, runtime-state captures, domain demonstrations, research concepts, and public filing references for Deterministic Intelligence (DI²).
 
-## Overview
+## Highlights
 
-The repository contains 107 raster images and this README (108 tracked files). Git history runs from February 4 through February 27, 2026. The archive preserves contemporaneous posts and screenshots; several items quote earlier dates or repeat one substantive item in multiple views.
-
-## Historical Record and Current Framing
-
-This repository is an archival record, not a rewrite of the posts it preserves. Original terms such as Scroll, Tier, entropy lock, and deterministic operating system remain visible in the filenames and captures. The translations in this README are orientation for new readers and do not replace the definitions in the dated artifacts.
-
-The current framing is evidence-specific: architecture diagrams are treated as architecture descriptions, screenshots with result fields as reported captures, filing graphics as public filing references, and AI-mode or account responses as commentary. None of those categories is silently upgraded into an independent benchmark or product release.
+February's **107 images** preserve four- and five-layer architecture diagrams, a reported BriefWise **501/501** case-audit screenshot, FastPath 6.0 / Scroll 166 entropy displays, domain demonstrations, and public filing references. Git history runs February 4–27, 2026; a capture's claim or filing label follows the underlying record.
 
 ## What the Repository Contains
 
@@ -36,7 +30,6 @@ The current framing is evidence-specific: architecture diagrams are treated as a
 
 - **PASS — archive inventory:** 107 raster images and one README are present in the tracked tree.
 - **RECORDED — explicit status fields:** several captures display labels such as 501/501, Sealed, DriftIndex 0.000000, or entropy values. These are preserved display states.
-- **NO EXECUTABLE TEST SUITE:** this repository is a media archive and does not provide a test command or runtime verifier.
 
 ## Published Evidence
 
@@ -52,21 +45,15 @@ Representative evidence is linked above. Additional useful starting points inclu
 
 A notable aspect of this archive is the pairing of a recurring control vocabulary with receipt- and audit-style surfaces. Scrolls, tiers, entropy values, drift fields, layered governance, and domain modules are shown together across legal, environmental, weather, insurance, consumer, and research examples. That makes the archive useful for understanding how Grounded DI communicated a cross-domain control model during February 2026.
 
-## Keep These Propositions Separate
+## Evidence status
 
-| Proposition | What this archive supports |
-|---|---|
-| Model capability | The images preserve generated examples and commentary; they are not a benchmark of an underlying model. |
-| Governed execution | Captures display rule, tier, scroll, and runtime-state language; no executable runtime is tracked here. |
-| Replay, provenance, and auditability | Some images describe receipts, replay, hashes, or audit paths; no standalone replay verifier or raw input package is included. |
-| Product or artifact status | The repository is a dated public media record containing diagrams, demonstrations, commentary, and filing references. |
-| External validation | Independent reproduction or outside review is not established by this archive. |
+The table above identifies each item as a reported result, displayed state, audit artifact, architecture description, or metric capture. The [repository scope below](#repository-scope-and-limitations) explains what is available for independent review and replay.
 
 ## Evaluation and Integration Context
 
 The archive can help an evaluator select public examples for a deeper proof of concept. Potential evaluation areas include legal citation and posture controls (BriefWise), environmental and consumer-risk screening (CleanWaterWise, HazardWise, ShoppingWise), weather-event logic (StormWise), and domain-specific routing or research workflows.
 
-These are evaluation scenarios suggested by the record, not deployed capabilities of this repository. For technical evaluation, licensing, or integration discussions, contact Grounded DI LLC through the [Grounded DI GitHub organization](https://github.com/Grounded-DI).
+For technical evaluation, licensing, or integration discussions, contact Grounded DI LLC through the [Grounded DI GitHub organization](https://github.com/Grounded-DI).
 
 ## Authorship and Provenance
 
